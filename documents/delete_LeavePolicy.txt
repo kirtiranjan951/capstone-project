@@ -1,0 +1,15 @@
+ABC Bank Leave Policy
+
+Version: 2025
+
+Annual Leave:
+Employees are entitled to 20 annual leaves every calendar year.
+
+Medical Leave:
+Employees are entitled to 12 medical leaves every year.
+
+Casual Leave:
+Employees are entitled to 8 casual leaves every year.
+
+Approval:
+Manager approval is mandatory before leave is approved.
